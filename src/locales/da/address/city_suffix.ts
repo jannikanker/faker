@@ -1,0 +1,18 @@
+export default [
+  'rup',
+  'by',
+  'huse',
+  'sted',
+  'lev',
+  'skov',
+  'høj',
+  'rød',
+  'borg',
+  'holm',
+  'bæk',
+  'bro',
+  'lund',
+  'løse',
+  'sø',
+  'havn',
+];
